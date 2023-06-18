@@ -1,0 +1,11 @@
+00:00​ - Introdução
+00:40​ - Prévia do App
+02:44​ - Layout
+06:37​ - Botão: Reset
+07:28​ - Botão: Ler Ponto
+11:21​ - Classe LOCATION
+13:41​ - Classe Ponto
+18:04​ - DistanceBetween
+20:36​ - Mostrar google maps
+21:50​ - Usando o App
+23:33​ - Exercício de fixação
